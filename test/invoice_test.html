@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Invoice Chemicfest#8</title>
+</head>
+<body style="font-family: Arial, sans-serif; max-width: 600px; margin: 0 auto; padding: 20px; background-color: #f1f1f1;">
+  <table cellspacing="0" cellpadding="0" border="0" width="100%">
+    <tr>
+      <td align="center">
+        <h1 style="font-size: 24px; font-weight: bold; margin: 20px 0;">Terimakasih atas pembelian anda!</h1>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <!-- Header -->
+        <table cellspacing="0" cellpadding="0" border="0" width="100%">
+          <tr>
+            <td width="10%">
+              <img src="https://chemicfest.site/file/assets/osis.png" alt="OSIS Logo" style="width: 100%;">
+            </td>
+            <td width="50%" align="right">
+              <h2 style="font-size: 20px; font-weight: bold;">INVOICE</h2>
+              <h3 style="font-size: 16px; color: #FC664E; margin: 0;">INV/${unixuser}/${unix2user}/<span style="white-space: nowrap;">TKT/${typeticket}</span></h3>
+            </td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <!-- Content -->
+        <table cellspacing="0" cellpadding="0" border="0" width="100%">
+          <tr>
+            <td width="50%">
+              <h2 style="font-size: 18px; font-weight: bold;">DITERBITKAN OLEH</h2>
+              <p style="font-size: 14px; font-weight: bold;">Chemicfest#8 | OSIS Chemicalistronic</p>
+              <p style="font-size: 14px;">Jl. Kusumanegara No.3, Yogyakarta 55166</p>
+              <p style="font-size: 14px;">noreply@chemicfest.com</p>
+            </td>
+            <td width="50%">
+              <h2 style="font-size: 18px; font-weight: bold;">UNTUK</h2>
+              <p style="font-size: 14px; font-weight: bold;">Kode Pesanan: CF8-${typeticket}-${unixinvoice}</p>
+              <p style="font-size: 14px; font-weight: bold;">Nama Pemesan: ${name}</p>
+              <p style="font-size: 14px; font-weight: bold;">Tanggal Pembelian: ${formattedDate}</p>
+            </td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <!-- Table -->
+        <table cellspacing="0" cellpadding="0" border="0" width="100%" style="margin-top: 20px;">
+          <tr>
+            <th style="font-size: 14px; font-weight: bold; padding: 5px;">PRODUK</th>
+            <th style="font-size: 14px; font-weight: bold; padding: 5px;">JUMLAH</th>
+            <th style="font-size: 14px; font-weight: bold; padding: 5px;">HARGA SATUAN</th>
+            <th style="font-size: 14px; font-weight: bold; padding: 5px;">TOTAL HARGA</th>
+          </tr>
+          <tr>
+            <td style="font-size: 14px; padding: 5px;">Ticket Chemicfest#8 ${typeuser}</td>
+            <td style="font-size: 14px; padding: 5px;">1</td>
+            <td style="font-size: 14px; padding: 5px;">${amount}</td>
+            <td style="font-size: 14px; padding: 5px; color: #FC664E; font-weight: bold;">${amount}</td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <!-- Footer -->
+        <table cellspacing="0" cellpadding="0" border="0" width="100%" style="margin-top: 20px;">
+          <tr>
+            <td style="background-color: #F2F2E8; padding: 16px; border-radius: 20px 20px 0 0;">
+              <table cellspacing="0" cellpadding="0" border="0" width="100%">
+                <tr>
+                  <td>
+                    <h2 style="font-size: 16px; font-weight: bold;">TOTAL</h2>
+                    <h2 style="font-size: 24px; font-weight: bold; color: #FC664E;">${amount}</h2>
+                  </td>
+                  <td>
+                    <h2 style="font-size: 16px; font-weight: bold;">METODE PEMBAYARAN</h2>
+                    <h2 style="font-size: 24px; font-weight: bold;">${method}</h2>
+                  </td>
+                  <td>
+                    <h2 style="font-size: 16px; font-weight: bold;">STATUS</h2>
+                    <h2 style="font-size: 24px; font-weight: bold;">LUNAS</h2>
+                  </td>
+                </tr>
+              </table>
+            </td>
+          </tr>
+          <tr>
+            <td align="center" style="margin-top: 20px;">
+              <a href="https://chemicfest.site/eticket/id" style="background-color: #FFD700; color: white; font-weight: bold; padding: 10px 20px; text-decoration: none; border-radius: 5px;">Lihat E-Ticket</a>
+              <a href="https://chemicfest.site/invoice/ticket/id" style="background-color: #FFA500; color: white; font-weight: bold; padding: 10px 20px; text-decoration: none; border-radius: 5px; margin-left: 10px;">Download Invoice</a>
+            </td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+</body>
+</html>

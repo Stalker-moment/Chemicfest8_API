@@ -1,0 +1,30 @@
+[
+  {
+    "UUID": 67273806645299030000,
+    "Name": "Muhammad R Azaly",
+    "Username": "MRAzaly",
+    "Cart": [
+      {
+        "ProductId": 300,
+        "Alias": "SP-001-300",
+        "Name": "T-Shirt",
+        "Description": "White T-Shirt Chemicfest#8, Size XS, Short Sleeve",
+        "Picture": [
+          "https://chemicfest.site/file/product/SP-001-00.png",
+          "https://chemicfest.site/file/product/SP-001-01.png",
+          "https://chemicfest.site/file/product/SP-001-10.png",
+          "https://chemicfest.site/file/product/SP-001-11.png"
+        ],
+        "Price": 80000,
+        "UnitSymbol": "Rp",
+        "Qty": 1
+      }
+    ],
+    "Total": 80000,
+    "TotalUnit": "IDR",
+    "TotalUnitName": "Rupiah",
+    "TotalUnitSymbol": "Rp",
+    "TotalQty": 1,
+    "TotalQtyUnit": "Pcs"
+  }
+]

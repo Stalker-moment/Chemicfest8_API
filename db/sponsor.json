@@ -1,0 +1,44 @@
+[
+    {
+        "id": "2",
+        "Name": "Smartfren Gallery",
+        "Picture": "https://chemicfest.site/file/sponsor/0002.png",
+        "Link": ""
+    },
+    {
+        "id": "3",
+        "Name": "Mada Print",
+        "Picture": "https://chemicfest.site/file/sponsor/0003.png",
+        "Link": ""
+    },
+    {
+        "id": "4",
+        "Name": "Gembira Loka Zoo",
+        "Picture": "https://chemicfest.site/file/sponsor/0004.png",
+        "Link": ""
+    },
+    {
+        "id": "5",
+        "Name": "SBC",
+        "Picture": "https://chemicfest.site/file/sponsor/0005.png",
+        "Link": ""
+    },
+    {
+        "id": "6",
+        "Name": "Glory Karya Perkasa",
+        "Picture": "https://chemicfest.site/file/sponsor/0006.png",
+        "Link": ""
+    },
+    {
+        "id":"7",
+        "Name":"Susu Etawa Goat Milk",
+        "Picture":"https://chemicfest.site/file/sponsor/0007.png",
+        "Link":""
+    },
+    {
+        "id":"8",
+        "Name":"86 Chicken",
+        "Picture":"https://chemicfest.site/file/sponsor/0008.png",
+        "Link":""
+    }
+]

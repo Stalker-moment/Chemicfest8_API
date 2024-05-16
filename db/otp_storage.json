@@ -1,0 +1,26 @@
+[
+  {
+    "UUID": 12345678901234567000,
+    "Name": "Muhammad Tier Sinyo Cahyo Utomo Suharjo",
+    "Email": "masterofmoney88@gmail.com",
+    "Phone": "6282134580805",
+    "Verified": {
+      "Email": true,
+      "Phone": false
+    },
+    "Otp": [],
+    "CreatedAt": "2024-02-05T12:32:52.686Z"
+  },
+  {
+    "UUID": 6161714908574747000,
+    "Name": "Tierkun",
+    "Email": "sinyo5666@gmail.com",
+    "Phone": "6285728681929",
+    "Verified": {
+      "Email": true,
+      "Phone": false
+    },
+    "Otp": [],
+    "Created_At": "2024-02-10T05:19:14.936Z"
+  }
+]

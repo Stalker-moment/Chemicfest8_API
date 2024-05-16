@@ -1,0 +1,25 @@
+[
+  {
+    "CheckInTime": "2024-05-12T06:26:51.103Z",
+    "CheckInTimeMs": 1715495211103,
+    "UUID": 12345678901234567000,
+    "Name": "Muhammad Tier Sinyo Cahyo Utomo Suharjo",
+    "Username": "Tierkun",
+    "Email": "masterofmoney88@gmail.com",
+    "Phone": "6282134580805",
+    "Role": "admin",
+    "Details": {
+      "ID": "",
+      "TypeID": "",
+      "Kelas": "",
+      "Gender": "",
+      "Address": ""
+    },
+    "Image_1": "-",
+    "Image_2": "-",
+    "ProductId": 101,
+    "TypeTicket": "alumni",
+    "TicketId": "420468",
+    "TicketPass": "2408"
+  }
+]

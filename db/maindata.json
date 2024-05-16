@@ -1,0 +1,90 @@
+[
+  {
+    "UUID": 12345678901234567000,
+    "Status": "Active",
+    "Verified": {
+      "Method": "OTP",
+      "Email": true,
+      "Phone": false
+    },
+    "Attachment": {
+      "Type_Image_1": "-",
+      "Image_1": "-",
+      "Type_Image_2": "-",
+      "Image_2": "-"
+    },
+    "PartOf": {
+      "Role": "siswa",
+      "Kelas": "XI TM A",
+      "Name": "Muhammad Tier Sinyo Cahyo Utomo Suharjo",
+      "ID": 22100708
+    },
+    "Created_At": "2024-02-05T12:32:52.686Z",
+    "Name": "Muhammad Tier Sinyo Cahyo Utomo Suharjo",
+    "Details": {
+      "ID": "",
+      "TypeID": "",
+      "Kelas": "",
+      "Gender": "",
+      "Address": ""
+    },
+    "Username": "Tierkun",
+    "Password": "1234Abcd",
+    "Email": "masterofmoney88@gmail.com",
+    "Phone": "6282134580805",
+    "Role": "admin",
+    "Picture": "https://chemicfest.site/file/profile/12345678901234567000.jpg",
+    "Max_Session": 3,
+    "Now_Session": 0,
+    "Max_Main_Session": 3,
+    "Now_Main_Session": 0,
+    "Main_Session": [],
+    "Expired_Main_Session": [],
+    "Session": [],
+    "Expired_Session": []
+  },
+  {
+    "UUID": 12345678901234162000,
+    "Status": "Active",
+    "Verified": {
+      "Method": "OTP",
+      "Email": true,
+      "Phone": false
+    },
+    "Attachment": {
+      "Type_Image_1": "-",
+      "Image_1": "-",
+      "Type_Image_2": "-",
+      "Image_2": "-"
+    },
+    "PartOf": {
+      "Role": "siswa",
+      "Kelas": "XI TM A",
+      "Name": "Fahreza Pasha Haikal",
+      "ID": 22100708
+    },
+    "Created_At": "2024-02-05T12:32:52.686Z",
+    "Name": "Fahreza Pasha Haikal",
+    "Details": {
+      "ID": "",
+      "TypeID": "",
+      "Kelas": "",
+      "Gender": "",
+      "Address": ""
+    },
+    "Username": "fph",
+    "Password": "natasha",
+    "Email": "fph@gmail.com",
+    "Phone": "6282134580805",
+    "Role": "admin",
+    "Picture": "https://chemicfest.site/file/profile/12345678901234567000.jpg",
+    "Max_Session": 3,
+    "Now_Session": 0,
+    "Max_Main_Session": 3,
+    "Now_Main_Session": 0,
+    "Main_Session": [],
+    "Expired_Main_Session": [],
+    "Session": [],
+    "Expired_Session": []
+  }
+]

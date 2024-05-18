@@ -4,8 +4,8 @@ var name = 'Muhammad Tier Sinyo Cahyo Utomo Suharjo';
 var transporter = nodemailer.createTransport({
   service: 'gmail',
   auth: {
-    user: 'botsinchan@gmail.com',
-    pass: 'lyom dtgd cbit xsex'
+    user: 'XXXXXXXXXXXXXXXX',
+    pass: 'XXXXXXXXXXXXXXXXX'
   }
 });
 
